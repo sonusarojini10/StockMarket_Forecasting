@@ -9,3 +9,6 @@ xgboost>=1.6.0
 statsmodels>=0.13.0
 tensorflow>=2.10.0
 streamlit>=1.18.0
+torch==2.0.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+
