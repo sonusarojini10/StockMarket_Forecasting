@@ -17,6 +17,7 @@ Real-Time Prediction Dashboard (Streamlit)
 It fetches historical stock data, performs feature engineering, trains multiple models, evaluates them, and provides live forecasts through an interactive UI.
 
 * Project Architecture
+```python
 StockMarket_Forecasting/
 │
 ├── data/
@@ -41,6 +42,7 @@ StockMarket_Forecasting/
 ├── presentation/                  # PDF + demo video (optional)
 ├── requirements.txt
 └── README.md
+```
 
 🧪 Implemented Models
 📌 1. Baseline Models
