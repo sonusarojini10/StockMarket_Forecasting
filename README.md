@@ -50,6 +50,7 @@ Model	Description
 Naive	Forecast = last observed close
 Rolling Mean	Moving average
 Drift Model	Linear trend projection
+
 📌 2. ARIMA Model
 
 Uses pmdarima.auto_arima
@@ -198,14 +199,6 @@ streamlit run src/app/app.py
 
  Demonstration (For Presentation)
 
-You can show:
-
-✔️ Notebook results
-✔️ Model comparison
-✔️ Streamlit real-time prediction
-✔️ Architecture & model pipeline
-✔️ GitHub repo + code walkthrough
-🎯 Future Improvements
 
 Add hyperparameter tuning
 
