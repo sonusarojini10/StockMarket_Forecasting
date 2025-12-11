@@ -214,5 +214,6 @@ Add more tickers + crypto
 
 Munnangi Sonu Sarojini
 Email: sonusarojini_munnangi@srmap.edu.in
+video link: https://www.youtube.com/watch?v=HddlQncMeFc
 
 GitHub: sonusarojini10
