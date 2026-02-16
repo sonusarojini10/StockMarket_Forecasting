@@ -8,5 +8,6 @@ scikit-learn
 statsmodels
 plotly
 onnxruntime>=1.23.0
+torch
 
 
